@@ -2,6 +2,8 @@
 
 Welcome to my professional portfolio repository.
 
+📍 **Location:** Planning to relocate to Dallas, Texas, USA.
+
 I am a data professional with 5+ years of experience working with data engineering, analytics, cloud platforms, and data-driven solutions.
 
 ## Live Portfolio
